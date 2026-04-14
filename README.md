@@ -1,4 +1,4 @@
 # Financial Analysis of Avenue Supermarts (DMart)
 
-## Overview of the project
+## 🦅 Overview
 This entire project has been built on a single excel file.
