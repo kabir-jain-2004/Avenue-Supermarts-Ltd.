@@ -55,6 +55,6 @@ Intrinsic value is highly sensitive to growth and discount rate assumptions.
 
 ## Repository Contents
 Financial Model: DMart_Valuation_Model.xlsx
-Research Reprot: DMart_Equity_Research_Report.pdf
+Research Report: DMart_Equity_Research_Report.pdf
 Presentation: DMart_Investment_Recommendation.pdf
 Data & other supporting resources: Annual reports, etc.
